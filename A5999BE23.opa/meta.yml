@@ -1,0 +1,22 @@
+id: A5999BE23
+title: 'PP: Ratnaguṇasaṃcayagāthā'
+type: translation
+pechas:
+- I46CBB649
+- IA11D7CA1
+- I4E2BB77C
+- IC74AA01F
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:51:13.460570
+  last_modified_at: 2023-02-09 14:51:13.460582
+alignment_to_base:
+  I46CBB649/38DD: 386F
+  IA11D7CA1/9A3A: 386F
+  I4E2BB77C/4BB7: 386F
+  IC74AA01F/1F2C: 386F
